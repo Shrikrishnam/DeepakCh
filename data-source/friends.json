@@ -1,0 +1,64 @@
+{
+  "contactUs": [
+    {
+      "firstname": "testname",
+      "lastname": "test",
+      "phonenumber": 9988776655,
+      "email": "test@test.com",
+      "message": "test message",
+      "id": 1
+    },
+    {
+      "firstname": "testname",
+      "lastname": "test",
+      "phonenumber": 9988776655,
+      "email": "test@test.com",
+      "message": "test message",
+      "id": 2
+    },
+    {
+      "firstname": "testname",
+      "lastname": "test",
+      "phonenumber": 9988776655,
+      "email": "test@test.com",
+      "message": "test message",
+      "id": 3
+    },
+    {
+      "firstname": "deepak",
+      "lastname": "choudhary",
+      "phonenumber": 121212121,
+      "email": "dchoudhary4444@gmail.com",
+      "message": "dfsf",
+      "id": 4
+    },
+    {
+      "firstname": "testname",
+      "lastname": "test",
+      "phonenumber": 9988776655,
+      "email": "test@test.com",
+      "message": "test message",
+      "id": 5
+    }
+  ],
+  "allfriends": [
+    {
+      "inr": "500",
+      "paisa": "50",
+      "streetaddress": "manchaman",
+      "city": "ujjain",
+      "state": "mp",
+      "country": "india",
+      "pincode": "456001",
+      "phonenumber": "8319240826",
+      "email": "deepak@gmail.com",
+      "firstname": "deepak",
+      "lastname": "choudhary",
+      "age": "21",
+      "trainerpreference": "male",
+      "physiotherapist": "yes",
+      "packages": "500",
+      "id": 1
+    }
+  ]
+}
